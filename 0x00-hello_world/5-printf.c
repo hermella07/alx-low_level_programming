@@ -1,6 +1,6 @@
 #include <studio.h>
 /**
- * main - A progra that ptint a line using printf function
+ * main - Entry point
  * Return: 0 (Success)
  */
 int main(void)
